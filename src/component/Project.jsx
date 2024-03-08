@@ -11,18 +11,18 @@ function Project() {
                 </p>
     <h1 className=" text-2xl px-6 py-4 ">heyy.. this my Project Section</h1>
     <div className="  py-2 px-2  max-w-[1250px]  ">
-    <div className="  text-white  gap-10  grid sm:grid-cols-2 ">
+    <div className="  text-white mx-auto grid-cols-2 gap-10  grid sm:grid-cols-2 ">
     <div className=" rounded overflow-hidden  shadow-md shadow-black ">
     <div className="px-6 py-4">
-        <h3 className=" text-3xl text-center ">Email Spam Detector</h3>
-        <p > Developed a machine learning model for email spam detection to alleviate the problem of spam emails
+        <h3 className=" text-xl sm:text-3xl text-center text-gray-600 ">Email Spam Detector</h3>
+        <p className=" text-left py-2 m-3"> Developed a machine learning model for email spam detection to alleviate the problem of spam emails
 inundating user inboxes by using AI ML algorithms.
 </p>
 </div>
 <div className=" ">
 
 <a href='https://email-spam-detection17.streamlit.app/'>
-<img className='  mx-[auto]  py-4 hover:scale-110 duration-500 px-2 ' src ={p1} alt ="Logo Image" style={{width:'400px', height:'250px'}}>
+<img className='  mx-[auto]  hover:scale-110 duration-500 px-2 py-4 ' src ={p1} alt ="Logo Image" style={{width:'400px', height:'250px'}}>
 
 </img>  
 </a>
@@ -31,12 +31,12 @@ inundating user inboxes by using AI ML algorithms.
     <div className=" rounded overflow-hidden shadow-md shadow-black">
     <div className="px-6 py-4">
         
-        <h3 className=" text-3xl text-center ">Bank Mangment System</h3>
-        <p>A Bank Management System is a software application that facilitates the efficient and organized management 
+        <h3 className=" text-xl sm:text-3xl text-center text-gray-600">Bank Mangment System</h3>
+        <p className=" text-center py-2 sm:py-5">A Bank Management System is a software application that facilitates the efficient and organized management 
 of banking operations by using JFrame and Java.
 </p>
     </div>
-    <img className='mx-[auto]   py-4 hover:scale-110 duration-500 px-2 '  src ={p2} alt ="Logo Image" style={{width:'400px', height:'250px'}}></img>  
+    <img className='mx-[auto]    hover:scale-110 duration-500  px-2 py-4 '  src ={p2} alt ="Logo Image" style={{width:'400px', height:'250px'}}></img>  
     
     </div>
     </div>
