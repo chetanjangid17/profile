@@ -6,10 +6,10 @@ function Project() {
     <div name = 'Project' className='w-full h-screen text-gray-300'>
         <div className=' flex flex-col justify-center items-center w-full h-screen'>
         <div className='pb-8 sm:text-center text-center'>
-                <p className='text-4xl font-bold inline border-b-4 hover:border-pink-600  '>
-                    Project
-                </p>
-    <h1 className=" text-2xl px-6 py-4 ">heyy.. this my Project Section</h1>
+                <h1 className='text-4xl font-bold py-1 inline border-b-4 hover:border-pink-600  '>
+                    Projects
+                </h1>
+                <p className="py-4">//Heyy!! this is my project section</p>
     <div className="  py-2 px-2  max-w-[1250px]  ">
     <div className="  text-white mx-auto grid-cols-2 gap-10  grid sm:grid-cols-2 ">
     <div className=" rounded overflow-hidden  shadow-md shadow-black ">
