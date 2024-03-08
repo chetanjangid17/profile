@@ -20,6 +20,7 @@ const Navbar = ()=>{
             <li  className=' text-2xl hover:bg-pink-600 inline border-b-2  hover:border-white hover:rounded-md'><Link to='About' smooth={true} duration={500}>About</Link></li>
             <li  className=' text-2xl hover:bg-pink-600 inline border-b-2  hover:border-white hover:rounded-md'><Link to='Skills' smooth={true} duration={500}>Skills</Link></li>
             <li  className=' text-2xl hover:bg-pink-600 inline border-b-2  hover:border-white hover:rounded-md'><Link to='Contact' smooth={true} duration={500}>Contact</Link></li>
+            <li  className=' text-2xl hover:bg-pink-600 inline border-b-2  hover:border-white hover:rounded-md'><Link to='Project' smooth={true} duration={500}>Project</Link></li>
                 
             </ul>
          
@@ -41,6 +42,7 @@ const Navbar = ()=>{
                 <li className='py-6 text-4xl  hover:bg-purple-500 hover:border-purple-500 '><Link onClick={handleclick} to='About' smooth={true} duration={500}>About</Link></li>
                 <li className='py-6 text-4xl  hover:bg-purple-500 hover:border-purple-500'><Link onClick={handleclick} to='Skills' smooth={true} duration={500}>Skills</Link></li>
                 <li className='py-6 text-4xl  hover:bg-purple-500 hover:border-purple-500'><Link onClick={handleclick}  to='Contact' smooth={true} duration={500}>Contact</Link></li>
+                <li className='py-6 text-4xl  hover:bg-purple-500 hover:border-purple-500'><Link onClick={handleclick}  to='Project' smooth={true} duration={500}>Project</Link></li>
             </ul>
         
         <div className='hidden lg:flex fixed flex-col top-[35%] left-0'> 
