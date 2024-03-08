@@ -22,7 +22,7 @@ inundating user inboxes by using AI ML algorithms.
 <div className=" ">
 
 <a href='https://email-spam-detection17.streamlit.app/'>
-<img className='  mx-[auto]  hover:scale-110 duration-500 px-2 py-4 ' src ={p1} alt ="Logo Image" style={{width:'400px', height:'250px'}}>
+<img className='  mx-[auto]  hover:scale-110 duration-500 px-2 py-4 ' src ={p1} alt ="Logo Image" style={{width:'400px', height:'275px'}}>
 
 </img>  
 </a>
@@ -32,11 +32,11 @@ inundating user inboxes by using AI ML algorithms.
     <div className="px-6 py-4">
         
         <h3 className=" text-xl sm:text-3xl text-center text-gray-600">Bank Mangment System</h3>
-        <p className=" text-center py-2 sm:py-5">A Bank Management System is a software application that facilitates the efficient and organized management 
+        <p className=" text-center py-6 sm:py-5">A Bank Management System is a software application that facilitates the efficient and organized management 
 of banking operations by using JFrame and Java.
 </p>
     </div>
-    <img className='mx-[auto]    hover:scale-110 duration-500  px-2 py-4 '  src ={p2} alt ="Logo Image" style={{width:'400px', height:'250px'}}></img>  
+    <img className='mx-[auto]    hover:scale-110 duration-500  px-2 py-6 sm:py-4 '  src ={p2} alt ="Logo Image" style={{width:'400px', height:'275px'}}></img>  
     
     </div>
     </div>
