@@ -17,8 +17,8 @@ const Home = ()=>{
       >
                 <p className='  text-pink-600 font-bold '>Hi My name is </p>
                 <h1 className='text-6xl sm:text-8xl font-bold text-white italic  '>Chetan Jangid</h1>
-                <h2 className='text-4xl sm:text-5xl  text-gray-400 italic'>I'm frontend developer</h2>
-                <p className='text-xl sm:text-2xl text-gray-500 italic py-1 max-w-[700px]'>Enthusiastic and motivated frontend developer eager to kickstart a career in web development. Proficient in HTML, CSS, and JavaScript, with a solid understanding of frontend fundamentals. Skilled in creating responsive and visually appealing web interfaces. Possesses a strong willingness to learn and adapt to new technologies, frameworks, and best practices. Adept at collaborating with teams to contribute to the development of user-centric web applications. Committed to continuous self-improvement and passionate about leveraging technology to create engaging user experiences.</p>
+                <h2 className='text-3xl sm:text-5xl  text-gray-400 italic'>I'm frontend developer</h2>
+                <p className='text-lg sm:text-2xl text-gray-500 italic py-1 max-w-[700px]'>Enthusiastic and motivated frontend developer eager to kickstart a career in web development. Proficient in HTML, CSS, and JavaScript, with a solid understanding of frontend fundamentals. Skilled in creating responsive and visually appealing web interfaces. Possesses a strong willingness to learn and adapt to new technologies, frameworks, and best practices. Adept at collaborating with teams to contribute to the development of user-centric web applications. Committed to continuous self-improvement and passionate about leveraging technology to create engaging user experiences.</p>
                 <div>
                 
             <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-purple-500 hover:border-purple-500 rounded-md'><Link to='Skills' smooth={true} duration={500}> View My Skills </Link>
